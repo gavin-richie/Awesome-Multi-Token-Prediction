@@ -31,6 +31,8 @@ timeline
 
 | Title | Institution | Year | Paper | Code |
 |------|-------------|------|-------|------|
+| **MiMo-V2-Flash Technical Report** | Xiaomi | 2025 | [PDF](https://github.com/XiaomiMiMo/MiMo-V2-Flash/blob/main/paper.pdf) | [Code](https://github.com/XiaomiMiMo/MiMo-V2-Flash) |
+| **FastMTP: Accelerating LLM Inference with Enhanced Multi-Token Prediction** | Tencent | 2025 | [PDF](https://arxiv.org/pdf/2509.18362) | [Code]([Tencent-BAC/FastMTP](https://github.com/Tencent-BAC/FastMTP)) |
 | **Beyond Multi-Token Prediction: Pretraining LLMs with Future Summariesn** | Meta | 2025 | [PDF](https://arxiv.org/pdf/2510.14751) | - |
 | **Enhancing Visual Planning with Auxiliary Tasks and Multi-token Prediction** | Meta | 2025 | [PDF](https://arxiv.org/pdf/2507.15130) | - |
 | **Your LLM Knows the Future: Uncovering Its Multi-Token Prediction Potential** | Apple | 2025 | [PDF](https://arxiv.org/pdf/2507.11851v1) | - |
