@@ -31,6 +31,7 @@ timeline
 ## 🔬 Recent Papers (2026)
 | Title | Institution | Year | Paper | Code |
 |------|-------------|------|-------|------|
+| **Efficient Training-Free Multi-Token Prediction via Embedding-Space Probing** | Qualcomm AI Research | 2026 | [PDF](https://arxiv.org/pdf/2603.17942) | - |
 | **Temporal Guidance for Large Language Models** | NUAA | 2026 | [PDF](https://arxiv.org/pdf/2601.21744) | - |
 
 
