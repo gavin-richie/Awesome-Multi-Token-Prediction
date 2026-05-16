@@ -73,6 +73,8 @@ timeline
 
 | Title | Institution | Year | Paper | Code |
 |------|-------------|------|-------|------|
+| **DFlash: Block Diffusion for Flash Speculative Decoding** | z-lab | 2026 | [PDF](https://arxiv.org/abs/2602.06036) | [Code](https://github.com/z-lab/dflash) |
+| **EAGLE-3: Scaling up Inference Acceleration of Large Language Models via Training-Time Test** | Peking University | 2025 | [PDF](https://arxiv.org/abs/2503.01840) | [Code](https://github.com/SafeAILab/EAGLE) |
 | **EAGLE: Speculative Sampling Requires Rethinking Feature Uncertainty** | Peking University | ICML 2024 | [PDF](https://arxiv.org/pdf/2401.15077) | [Code](https://github.com/SafeAILab/EAGLE?tab=readme-ov-file) |
 | **Hydra: Sequentially-Dependent Draft Heads for Medusa Decoding** | MIT | COLM 2024 | [PDF](https://arxiv.org/pdf/2402.05109) | [Code](https://github.com/zankner/Hydra) |
 | **MEDUSA: Simple LLM Inference Acceleration Framework with Multiple Decoding Heads** | Princeton University | ICML 2024 | [PDF](https://arxiv.org/pdf/2401.10774) | [Code](https://github.com/FasterDecoding/Medusa) |
