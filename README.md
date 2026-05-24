@@ -33,6 +33,7 @@ timeline
 |------|-------------|------|-------|------|
 | **Efficient Training-Free Multi-Token Prediction via Embedding-Space Probing** | Qualcomm AI Research | 2026 | [PDF](https://arxiv.org/pdf/2603.17942) | - |
 | **Temporal Guidance for Large Language Models** | NUAA | 2026 | [PDF](https://arxiv.org/pdf/2601.21744) | - |
+| **MTP-S2UT: Enhancing Speech-to-Speech Translation Quality with Multi-Token Prediction** | NEU | ICASSP 2026 | [PDF](https://arxiv.org/pdf/2510.10003) | - |
 
 
 ## 🔬 Recent Papers (2025)
