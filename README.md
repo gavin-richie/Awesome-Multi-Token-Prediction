@@ -33,12 +33,14 @@ timeline
 |------|-------------|------|-------|------|
 | **Efficient Training-Free Multi-Token Prediction via Embedding-Space Probing** | Qualcomm AI Research | 2026 | [PDF](https://arxiv.org/pdf/2603.17942) | - |
 | **Temporal Guidance for Large Language Models** | NUAA | 2026 | [PDF](https://arxiv.org/pdf/2601.21744) | - |
+| **MTP-S2UT: Enhancing Speech-to-Speech Translation Quality with Multi-Token Prediction** | NEU | ICASSP 2026 | [PDF](https://arxiv.org/pdf/2510.10003) | - |
 
 
 ## 🔬 Recent Papers (2025)
 
 | Title | Institution | Year | Paper | Code |
 |------|-------------|------|-------|------|
+| **Peeking Into The Future For Contextual Biasing** | Samsung Research America | 2025 | [PDF](https://arxiv.org/pdf/2512.17657) | - |
 | **L-MTP: Leap Multi-Token Prediction Beyond Adjacent Context for Large Language Models** | NUS | NeurIPS 2025 | [PDF](https://arxiv.org/pdf/2505.17505) | [Code](https://github.com/Xiaohao-Liu/L-MTP) |
 | **MiMo-V2-Flash Technical Report** | Xiaomi | 2025 | [PDF](https://github.com/XiaomiMiMo/MiMo-V2-Flash/blob/main/paper.pdf) | [Code](https://github.com/XiaomiMiMo/MiMo-V2-Flash) |
 | **FastMTP: Accelerating LLM Inference with Enhanced Multi-Token Prediction** | Tencent | 2025 | [PDF](https://arxiv.org/pdf/2509.18362) | [Code]([Tencent-BAC/FastMTP](https://github.com/Tencent-BAC/FastMTP)) |
@@ -55,6 +57,7 @@ timeline
 | **Multi-Token Prediction Needs Registers** | Athena Research Center | NeurIPS 2025 | [PDF](https://arxiv.org/pdf/2505.10518) | - |
 | **MiMo: Unlocking the Reasoning Potential of Language Model – From Pretraining to Posttraining** | Xiaomi | 2025 | [PDF](https://arxiv.org/pdf/2505.07608) | [Code](https://github.com/xiaomimimo/MiMo) |
 | **VocalNet: Speech LLM with Multi-Token Prediction for Faster and High-Quality Generation** | SJTU | 2025 | [PDF](https://arxiv.org/pdf/2504.04060) | - |
+| **GOAT-TTS: Expressive and Realistic Speech Generation via A Dual-Branch LLM** | TeleAI | 2025 | [PDF](https://arxiv.org/pdf/2504.12339) | - |
 | **On multi-token prediction for efficient LLM inference** | Sony | 2025 | [PDF](https://arxiv.org/pdf/2502.09419) | - |
 
 ---
@@ -75,6 +78,7 @@ timeline
 |------|-------------|------|-------|------|
 | **DFlash: Block Diffusion for Flash Speculative Decoding** | z-lab | 2026 | [PDF](https://arxiv.org/abs/2602.06036) | [Code](https://github.com/z-lab/dflash) |
 | **EAGLE-3: Scaling up Inference Acceleration of Large Language Models via Training-Time Test** | Peking University | 2025 | [PDF](https://arxiv.org/abs/2503.01840) | [Code](https://github.com/SafeAILab/EAGLE) |
+| **Accelerating Codec-Based Speech Synthesis with Multi-Token Prediction and Speculative Decoding** | KAIST | ICASSP 2025 | [PDF](https://arxiv.org/pdf/2410.13839) | [Project Page](https://mm.kaist.ac.kr/projects/mtp/) |
 | **EAGLE: Speculative Sampling Requires Rethinking Feature Uncertainty** | Peking University | ICML 2024 | [PDF](https://arxiv.org/pdf/2401.15077) | [Code](https://github.com/SafeAILab/EAGLE?tab=readme-ov-file) |
 | **Hydra: Sequentially-Dependent Draft Heads for Medusa Decoding** | MIT | COLM 2024 | [PDF](https://arxiv.org/pdf/2402.05109) | [Code](https://github.com/zankner/Hydra) |
 | **MEDUSA: Simple LLM Inference Acceleration Framework with Multiple Decoding Heads** | Princeton University | ICML 2024 | [PDF](https://arxiv.org/pdf/2401.10774) | [Code](https://github.com/FasterDecoding/Medusa) |
